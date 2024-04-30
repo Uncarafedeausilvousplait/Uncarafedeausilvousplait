@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Me:
+I'm currently learning Python, SQL, and Networking. All practice projects will be posted here.
 
 <!--
 **Uncarafedeausilvousplait/Uncarafedeausilvousplait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
